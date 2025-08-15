@@ -12,4 +12,4 @@
 | 第4步 | 你可以开始编辑文本啦！                                                   |
 | 第5步 | 编辑完文本后可以点绿色的“导出按钮”把编辑好的文本保存到本地               |
 ## 下载软件  
-想体验工具？点击 [👉 下载软件.html](https://raw.githubusercontent.com/han123ha/my_han.123_1/refs/heads/main/%E6%96%87%E6%9C%AC%E7%BB%9F%E4%B8%80%E6%9B%BF%E6%8D%A2%E5%B7%A5%E5%85%B7.html)
+想体验工具？点击 [👉 下载软件.html](https://raw.githubusercontent.com/han123ha/my_han.123_1/refs/heads/main/%E6%96%87%E6%9C%AC%E7%BB%9F%E4%B8%80%E6%9B%BF%E6%8D%A2%E5%B7%A5%E5%85%B7.html?download=1)
