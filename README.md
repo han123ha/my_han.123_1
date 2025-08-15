@@ -13,8 +13,8 @@
 | 第5步 | 编辑完文本后可以点绿色的“导出按钮”把编辑好的文本保存到本地               |
 ## 下载软件  
 想体验工具？点击 [👉 下载工具](https://raw.githubusercontent.com/han123ha/my_han.123_1/refs/heads/main/文本统一替换工具.html?download=1)
-将其保存为（.html）文件格式就可以在本地使用啦！
+- 将其保存为（.html）文件格式就可以在本地使用啦！
 ### 在线工具
 访问：点击 [进入在线工具](https://han123ha.github.io/my_han.123_1/)
-https://han123ha.github.io/my_han.123_1/
-访问以上网页或点击‘进入在线工具’就可以使用软件啦！
+- https://han123ha.github.io/my_han.123_1/
+- 访问以上网页或点击‘进入在线工具’就可以使用软件啦！
