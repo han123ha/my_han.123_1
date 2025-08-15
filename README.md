@@ -12,4 +12,4 @@
 | 第4步 | 你可以开始编辑文本啦！                                                   |
 | 第5步 | 编辑完文本后可以点绿色的“导出按钮”把编辑好的文本保存到本地               |
 ## 下载软件  
-想体验工具？点击 [👉 下载 HTML 软件](https://github.com/han123ha/my_han.123_1/blob/main/文本统一替换工具.html)
+想体验工具？点击 [👉 下载软件.html](https://github.com/han123ha/my_han.123_1/blob/main/文本统一替换工具.html)
